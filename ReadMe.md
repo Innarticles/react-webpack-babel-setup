@@ -1,3 +1,5 @@
+# Setting up webpack 4, babel and react https://www.valentinog.com/blog/babel/
+
 
 `npm i webpack --save-dev`
 `npm i webpack-cli --save-dev`
